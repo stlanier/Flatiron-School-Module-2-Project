@@ -1,6 +1,6 @@
 # Understanding King County Housing Prices
 
-For my second Flatiron School project, I've been tasked with producing a model of the relationship between a house's price in King County, Washington and a number of predictors––square footage, number of bathrooms, year built, etc.––using multiple linear regression. The model has been built for the purpose of inference moreso than prediction.
+For my second Flatiron School project, I've been tasked with producing a model of the relationship between a house's price in King County, Washington and a number of predictors––square footage, number of bathrooms, year built, etc.––using multiple linear regression. The model has been built for the purpose of inference moreso than prediction. The final model was a linear regression using Lasso regularization.
 
 ## Getting Started
 ### Contents of Repository
